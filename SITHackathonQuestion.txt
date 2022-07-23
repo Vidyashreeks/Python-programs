@@ -1,4 +1,7 @@
-You are in an escape room! You are given a clue string. There are ‘n’ number of doors on which distinct strings are painted. Your task is to print the door numbers whose strings can be produced by rotating the clue string anti-clockwise. If no strings can be produced then print -1.
+You are in an escape room! You are given a clue string. 
+There are ‘n’ number of doors on which distinct strings are painted. 
+Your task is to print the door numbers whose strings can be produced by rotating the clue string anti-clockwise. 
+If no strings can be produced then print -1.
 
 
 
